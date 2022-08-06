@@ -1,2 +1,2 @@
 # python-training
-this is a python training material designed for beginners 
+this is a python training powerpoint designed for beginners 
